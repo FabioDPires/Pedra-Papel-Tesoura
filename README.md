@@ -1,2 +1,2 @@
 # Pedra-Papel-Tesoura
-Jogo Pedra-Papel-Tesoura desenvolvio em Python
+Jogo Pedra-Papel-Tesoura desenvolvido em Python
